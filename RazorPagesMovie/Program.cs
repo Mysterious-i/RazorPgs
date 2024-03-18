@@ -20,7 +20,7 @@ public class Program
 
         app.UseRouting();
 
-        app.UseAuthorization();//
+        app.UseAuthorization();//trying something
 
         app.MapRazorPages();//adds endpoints for Razor Pages to the IEndpointRouteBuilder.
 
